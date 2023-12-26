@@ -1,2 +1,3 @@
-# mantine-theme-template
- rss3 mantine theme nextjs template
+# RSS3 mantine theme template (minimal)
+
+Doc: <https://mantine-theme.rss3.dev>
