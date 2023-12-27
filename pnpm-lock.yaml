@@ -9,8 +9,8 @@ dependencies:
     specifier: ^7.3.2
     version: 7.3.2(@mantine/hooks@7.3.2)(@types/react@18.2.45)(react-dom@18.2.0)(react@18.2.0)
   '@rss3/mantine-theme':
-    specifier: ^0.0.9
-    version: 0.0.9(@mantine/core@7.3.2)
+    specifier: ^0.0.10
+    version: 0.0.10(@mantine/core@7.3.2)
   next:
     specifier: ^14.0.4
     version: 14.0.4(react-dom@18.2.0)(react@18.2.0)
@@ -368,8 +368,8 @@ packages:
     dev: true
     optional: true
 
-  /@rss3/mantine-theme@0.0.9(@mantine/core@7.3.2):
-    resolution: {integrity: sha512-R0zupdEj8u2k+ysO6NAaGucaiYVS1ggJoBiVQUP8XE+00wZPyxrhjvvkCEQBh3XnqtMVi0rOEjWaa/9OOL9fEw==}
+  /@rss3/mantine-theme@0.0.10(@mantine/core@7.3.2):
+    resolution: {integrity: sha512-c87Wrt0FuSBwi4zPwiIc5jaXQ+DJs/YGal5s/u6Jnt1+bwrZK3pyg8SHhBxd4cCN2fO/Z9FXkQdhmlrvmA54pg==}
     engines: {node: '>=16.6.0'}
     peerDependencies:
       '@mantine/core': '>=7.0.0'
